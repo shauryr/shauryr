@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Shaurya 
+(pronounced as Shaw-reya)
 
 <!--
 **shauryr/shauryr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
