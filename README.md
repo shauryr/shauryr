@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: szr207 [at] psu [dot] edu
 - ⚡ Fun fact: I won three coding hackathons in a row - HackPSU
 
-[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryr)](https://github.com/anuraghazra/github-readme-stats)
+[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
