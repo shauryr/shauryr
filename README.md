@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to use NLP and ML to re-rank search results
 - 📫 How to reach me: szr207 [at] psu [dot] edu
 - ⚡ Fun fact: I won three coding hackathons in a row - HackPSU
+
+[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryr)](https://github.com/anuraghazra/github-readme-stats)
