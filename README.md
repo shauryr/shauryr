@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 Pronouns: he/him
-- 🔭 I’m currently working on building question answering system using auto regressive LLMs like GPT and LlaMa. I am trying to make sure that the generated text has citations.
+- 🔭 I’m currently working on building question answering systems using auto regressive LLMs like GPT and LlaMa. Working on making sure that the generated text has citations.
 - 🌱 I’m currently learning how to include Llama-index in the question anserwing workflow. 
 - 📫 How to reach me: shauryr [at] gmail [dot] com
 - I recently contributed to Llama-hub and Semantic Scholar 
