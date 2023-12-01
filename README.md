@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I won three coding hackathons in a row - HackPSU
 - 🤖 S2QA is my most used tool yet.
 
-<!--[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryr&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <div>
