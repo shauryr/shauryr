@@ -4,7 +4,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/shauryr?style=social)](https://twitter.com/intent/follow?screen_name=shauryr)
 ![GitHub](https://img.shields.io/github/followers/shauryr?label=Follow&style=social)
 [![Linkedin](https://img.shields.io/badge/-shaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaurya-rohatgi/)](https://www.linkedin.com/in/shaurya-rohatgi/)
-[![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
 
 <!--
 **shauryr/shauryr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
